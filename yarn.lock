@@ -3893,9 +3893,9 @@ three-orbit-controls@^72.0.0:
   version "72.0.0"
   resolved "https://registry.yarnpkg.com/three-orbit-controls/-/three-orbit-controls-72.0.0.tgz#13a4cbf3780cc6e5446aed0032fe1c5135e72755"
 
-three@^0.72.0:
-  version "0.72.0"
-  resolved "https://registry.yarnpkg.com/three/-/three-0.72.0.tgz#ac4eb95fd4e5b159c0ffabb609617fec90a336b2"
+three@^0.137.0:
+  version "0.137.0"
+  resolved "https://registry.yarnpkg.com/three/-/three-0.137.0.tgz#0ebd6ba66637a332c31f234bcdd35aeec071a6e3"
 
 through@^2.3.6, through@~2.3.8:
   version "2.3.8"
